@@ -1,0 +1,13 @@
+#cell-padding{
+    padding: 1px 1px 1px 1px;
+}
+
+
+#cell-paddingRight{
+    padding: 1px 0px 1px 1px;
+}
+
+
+#cell-paddingLeft{
+    padding: 1px 1px 1px 0px;
+}
